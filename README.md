@@ -1,3 +1,4 @@
 # Midterm-Project
 
-[a relative link](About Me.md)
+### __Here are links to other pages__
+[Here is a link to About Me!](About-Me.md)
