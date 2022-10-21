@@ -6,3 +6,5 @@
 [Here is a link to a List of my favorite things!](FavoriteThings.md)
 
 [Here is a link to a Logo I made!](Logo.md)
+
+[Here is a link to the project requirements!](Requirements.md)
