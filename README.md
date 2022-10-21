@@ -11,3 +11,5 @@
 [Here is a link to the project requirements!](Requirements.md)
 #### Images
 [Here is a link to the Images!](Images.md)
+#### HTML Fizzbuzz Code
+[Here is a link to the HTML Code!](FizzbuzzHTML.md)
