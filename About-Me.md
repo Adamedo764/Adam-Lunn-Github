@@ -3,4 +3,4 @@ Hello, my name is Adam, and I am currently a sophomore at the University of Miss
 
 [This is an external link to The Greener on Youtube) (https://www.youtube.com/channel/UCPrJdSiwwm-BNZPC59hd59A)
 
-[This is an external link to The G on Youtube) (https://www.youtube.com/channel/UCjTpMXs_4uYJUWU3fTGZO8g?app=desktop)
+[This is an external link to Adamedo Gaming on Youtube) (https://www.youtube.com/channel/UCjTpMXs_4uYJUWU3fTGZO8g?app=desktop)
