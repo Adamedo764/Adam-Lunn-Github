@@ -7,7 +7,7 @@
 [Here is a link to a List of my favorite things!](FavoriteThings.md)
 #### Logo
 [Here is a link to a Logo I made!](Logo.md)
-#### requirements
+#### Requirements
 [Here is a link to the project requirements!](Requirements.md)
-#### images
+#### Images
 [Here is a link to the Images!](Images.md)
