@@ -1,25 +1,20 @@
 # Here is the requirements for the project.
 
-**Description:** Create a personal site in markdown that is hosted on GitHub and provides information about you.
+Challenge: Markdown Pages on GitHub
+Description: Create multiple linked markdown pages that are hosted on GitHub and presents some information that interests you and contains a variety of markdown features. The first markdown page in the repository is to be README.md, which serves as the home page for repo.
 
-**Purpose:** This project provides experience working with markdown, Git/GitHub, and IT-related concepts and knowledge.
+Purpose: This project provides experience working with markdown, Git/GitHub, and digital concepts.
 
-**Requirements:**
+Requirements:
 
-This project is to be managed in a public GitHub repository. Submit the Clone with HTTPS URL for the repository that contains the personal site.
+This project is to be managed in a public GitHub repository. Submit the Clone with HTTPS URL for the repository that contains the markdown pages. The URL is available when you click the green Code button on the GitHub repository page.
 
-The README.md is to serve as the [home page](https://en.wikipedia.org/wiki/Home_page) for your personal site on GitHub. Other markdown pages are to be linked to from the README.md. Provide navigation forward and backward when linking between markdown documents. Also, if useful, create links to navigate within a markdown document.
+The README.md is to serve as a home page for the markdown pages. Other markdown pages can be linked to from the README.md. Provide navigation forward and backward if linking between markdown documents. Also, if useful, create links to navigate within a markdown document.
 
-The information that you present on the markdown pages is up to you. But, it must meet the following requirements. The site must have a minimum of five markdown pages and contain the following somewhere on the pages.
+The contents of the markdown pages can be anything that interests you. The markdown you create should demonstrate that you understand how to use markdown by using a variety of its features Links to an external site..
 
-* Paragraphs.
-* Headers.
-* Links between the markdown pages.
-* Links to other web sites.
-* One or more images that are hosted in the GitHub repo.
-* One or more images that are hosted elsewhere on the web.
-* A list.
-* Some text that is bolded.
-* Some text that is italicized.
-* A block of code.
+With regard to size and scope, you should do enough for you to feel you understand markdown and can demonstrate that in the content you create.
+
+Submission
+Submit the Clone with HTTPS URL for the repository as specified in the assignment. The URL is available when you click the green Code button on the GitHub repository page.
 
