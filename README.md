@@ -1,4 +1,4 @@
-# Midterm-Project
+# Adam-Lunn-GitHub
 
 ### __Here are links to other pages__
 #### About Me
