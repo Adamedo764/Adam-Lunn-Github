@@ -12,4 +12,4 @@
 #### Images
 [Here is a link to the Images!](Images.md)
 #### HTML Fizzbuzz Code
-[Here is a link to the HTML Code!](FizzBuzzHTML.md)
+[Here is a link to the HTML Code!](FizzBuzzHTML.md) 
