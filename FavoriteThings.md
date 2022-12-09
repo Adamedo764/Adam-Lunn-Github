@@ -1,4 +1,4 @@
-#Here is some of my favorite things.
+Here is some of my favorite things.
 
 1. Video Games
 2. Hanging with Family and Friends
